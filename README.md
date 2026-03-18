@@ -1,4 +1,7 @@
-# ⚡ Hey, I'm DevCode01 or SmukyLonk !
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🏎️+Full+Speed+Developer;⚡+Java+%7C+Spring+Boot+%7C+Kubernetes;🚀+Building+Scalable+Systems;🏁+Push+to+prod+like+it's+the+final+lap" />
+
+</p># ⚡ Hey, I'm DevCode01 or SmukyLonk !
 
 🏎️ *Building scalable systems like an F1 engineer builds a race car.*
 
