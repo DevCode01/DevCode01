@@ -1,4 +1,4 @@
-</p># ⚡ Hey, I'm DevCode01 or SmukyLonk !
+⚡ Hey, I'm DevCode01 or SmukyLonk !
 
 🏎️ *Building scalable systems like an F1 engineer builds a race car.*
 
